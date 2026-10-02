@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.7+-5C3EE8?logo=opencv)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](#-许可证)
+[![License](https://img.shields.io/badge/License-PolyForm--NC--1.0.0-red.svg)](#-许可证)
 
 [快速开始](#-快速开始) · [功能特性](#-功能特性) · [项目结构](#-项目结构) · [API 文档](#-api-使用) · [技术栈](#-技术栈)
 
@@ -173,7 +173,14 @@ cd examples && python demo.py
 
 ## 📄 许可证
 
-本项目基于 [MIT 许可证](LICENSE) 开源。
+## 📜 许可证
+
+本项目采用 **[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)** 许可证开源。
+
+> **使用限制**：本项目仅授权**非商业用途**使用（学习、研究、教学与个人项目）。
+> **禁止任何形式的商业使用与倒卖**——包括但不限于：出售或转售本项目/其副本、
+> 将本项目或其衍生作品纳入商业产品或商业服务、以营利为目的的分发。
+> 如需商业授权，请联系作者（lonefasf@qq.com）协商。
 
 <div align="center">
 Built with ❤️ for Computer Vision & Embedded Robotics.
